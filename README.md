@@ -1,0 +1,2 @@
+# Prospects-of-the-growth-of-small-and-medium-sized-enterprises-using-ESG-metrics-sentiment-analysis..
+Evaluating the possibility of ESG ratings given by standard rating agencies to be considered as a serious metric to gauge the growth scope of a firm.  Also, we will discuss the prospects of a conventional time series prediction model like ARIMA and the implementation of sentiment analysis on news articles about the firms. 
